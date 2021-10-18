@@ -1,8 +1,8 @@
 # Solidity Homework_20
 
 ## AssociateProfitSplitter Contract
-This contract is used to send the amount to three different address of employees equally, and the remainder to be sent to the deployer if any exists.__
-The contract was tested and below are the screenshots to prove it
+- This contract is used to send the amount to three different address of employees equally, and the remainder to be sent to the deployer if any exists.
+- The contract was tested and below are the screenshots to prove it
 
 ### Initiate the contract
 ![Associate](solidity_screenshot/AssociateProfitSplitter_initiate.JPG)
