@@ -1,6 +1,6 @@
 # Solidity Homework_20
 
-## AssociateProfitSplitter Contract
+## 1. AssociateProfitSplitter Contract
 - This contract is used to send the amount to three different address of employees equally, and the remainder to be sent to the deployer if any exists.
 - The contract was tested and below are the screenshots to prove it
 
@@ -10,7 +10,7 @@
 ### Finalize the contract by submitting 10 ETH split equally
 ![Associate_fin](solidity_screenshot/AssociateProfitSplitter_deposit_10ETH.JPG)
 
-## TieredProfitSplitter Contract
+## 2. TieredProfitSplitter Contract
 - This contract is used to three employees with different ratio (CEO 60%, CTO 25%, and Bob 15%)
 - If any remainder amount left it was going to be transferred to the CEO with highest percentage of 60%
 - The Contract was tested and below are the screenshots to prove it
@@ -22,7 +22,7 @@
 ![Tired_fin](solidity_screenshot/TieredProfitSplitter_deposit_15ETH.JPG)
 
 
-## DeferredEquityPlan Contract
+## 3. DeferredEquityPlan Contract
 - This contract is used to distribute shares to an employee
 - Each employee will receive 250 shares per year to the maximum of 1000 shares
 - The employee will be able to access those shares once a full year is passed
